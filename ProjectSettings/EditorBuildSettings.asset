@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Start Menu.unity
+    guid: 730d736f94d75c34f8bfe15da60b0470
+  - enabled: 1
+    path: Assets/Runner Game/Runner Game.unity
+    guid: 157476fde1a68b44698892ff19f9ac19
+  - enabled: 1
+    path: Assets/Runner Switcher/Runner Switcher.unity
+    guid: c762966b05f153047b3c7b253135060b
+  - enabled: 1
+    path: Assets/Jetpack Game/Jetpack Game.unity
+    guid: aab5a4924899d1b499b62edb61ab07c0
+  - enabled: 1
+    path: Assets/End Menu.unity
+    guid: 74883d2ab8df61a4ebd9b090ea6ccd12
   m_configObjects: {}
